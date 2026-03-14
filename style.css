@@ -1,0 +1,74 @@
+h2{
+    color: blue;
+}
+
+.signUp{
+    background-color: rgba(24, 33, 42, 0.8);
+    width: 200px;
+    padding: 20px;
+    margin-top: 180px;
+    margin-left: 120px;
+    margin: 0 auto;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+   color: cyan;
+}
+
+button{
+    width: 200px;
+    padding: 10px;
+    line-height: 10px;
+    border-radius: 20px;
+    height: 40px;
+    color: blue;
+}
+
+button:hover{
+    color: white;
+    background-color: black;
+}
+
+::placeholder{
+    color: white;
+    opacity: 0.5;
+    
+}
+
+form{
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+input{
+    width: 150px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    font-size: 12px;
+    padding: 0;
+    border: 0.5px;
+    height: 25px;
+    color: white;
+    outline: none;
+      border-bottom: 2px solid black;
+}
+
+body{
+    background: lightskyblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
